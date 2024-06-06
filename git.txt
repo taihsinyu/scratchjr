@@ -1,0 +1,11 @@
+git --version
+git config --global user.name "tai"
+git config --global user.email "taihsinyu7629@gmail.com"
+git init
+clear
+git status
+Untracked	未追蹤
+Tracked		已追蹤
+Staged		已暫存
+Committed	已提交
+git add 		未追蹤〉已追蹤
